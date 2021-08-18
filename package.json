@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "got": "^10.4.0",
+    "is-up": "^4.0.0",
+    "jsdom": "^16.2.2",
+    "node-updown": "^1.0.2",
+    "nodemailer": "^6.6.3",
+    "smtp-locaweb-nodejs": "^1.0.1"
+  }
+}
