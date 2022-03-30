@@ -94,14 +94,14 @@ function EnviarEmail(site, erro, data){
             },
             {    
                 // sender info
-                from: 'Checker <no-reply@vandoir.com.br>'
+                from: 'Checker <y>'
             }
         );
     
         // Message object
         let message = {
             // Comma separated list of recipients
-            to: 'Web2 <web2@voxbrazil.com.br>',
+            to: 'Web2 <x>',
     
             // Subject of the message
             subject: 'Checker - Site fora! -> ' + site + " " + data,
